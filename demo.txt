@@ -1,1 +1,3 @@
 Hello welcome to project
+Today we will learn about git commands!
+
